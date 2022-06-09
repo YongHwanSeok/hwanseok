@@ -17,6 +17,7 @@
 
 [github]:http://github.com/YongHwanSeok
 ***
+
 ## 🏛학력   
 |학교명|연도|
 |---|---|
